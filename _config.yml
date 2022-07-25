@@ -192,6 +192,7 @@ exclude:
   - node_modules
   - package*.json
 
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
