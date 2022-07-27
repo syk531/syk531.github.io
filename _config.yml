@@ -26,7 +26,7 @@ title: syk531                          # the main title
 tagline: notebook   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  프로그래밍, 코딩, 알고리즘, 백준 문제 풀이 등 정리 개인 블로그 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://syk531.github.io'
