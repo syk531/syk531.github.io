@@ -7,26 +7,26 @@ theme: jekyll-theme-chirpy
 # and doesn't have a custom domain.
 baseurl: ''
 
-# The language of the webpage �� http://www.lingoes.net/en/translator/langcode.htm
+# The language of the webpage 占쏙옙 http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: ko-KR
 
-# Additional parameters for datetime localization, optional. �� https://github.com/iamkun/dayjs/tree/dev/src/locale
+# Additional parameters for datetime localization, optional. 占쏙옙 https://github.com/iamkun/dayjs/tree/dev/src/locale
 prefer_datetime_locale: ko
 
-# Change to your timezone �� http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+# Change to your timezone 占쏙옙 http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
 
-# jekyll-seo-tag settings �� https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# �넃 --------------------------
+# jekyll-seo-tag settings 占쏙옙 https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# 占쎈꼦 --------------------------
 
 title: syk531                          # the main title
 
 tagline: notebook   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  프로그래밍, 코딩, 알고리즘, 백준 문제 풀이 등 정리 개인 블로그 
+  �봽濡쒓렇�옒諛�, 肄붾뵫, �븣怨좊━利�, 諛깆� 臾몄젣 ���씠 �벑 �젙由� 媛쒖씤 釉붾줈洹� 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://syk531.github.io'
@@ -52,11 +52,11 @@ social:
 
 google_site_verification: 000              # fill in to your verification string
 
-# �넁 --------------------------
+# 占쎈꼤 --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: '000'                # fill in your Google Analytics ID
+  id: 'UA-236030143-1'                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -93,12 +93,12 @@ comments:
   # The active options are as follows:
   disqus:
     comments: true
-    shortname: 'syk531'    # fill with the Disqus shortname. �� https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-  # utterances settings �� https://utteranc.es/
+    shortname: 'syk531'    # fill with the Disqus shortname. 占쏙옙 https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  # utterances settings 占쏙옙 https://utteranc.es/
   utterances:
     repo:         # <gh-username>/<repo>
     issue_term:   # < url | pathname | title | ...>
-  # Giscus options �� https://giscus.app
+  # Giscus options 占쏙옙 https://giscus.app
   giscus:
     repo:             # <gh-username>/<repo>
     repo_id:
@@ -108,7 +108,7 @@ comments:
     input_position:   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
 
-# Self-hosted static assets, optional �� https://github.com/cotes2020/chirpy-static-assets
+# Self-hosted static assets, optional 占쏙옙 https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
     enabled:      # boolean, keep empty means false
@@ -125,7 +125,7 @@ paginate: 10
 
 kramdown:
   syntax_highlighter: rouge
-  syntax_highlighter_opts:   # Rouge Options �� https://github.com/jneen/rouge#full-options
+  syntax_highlighter_opts:   # Rouge Options 占쏙옙 https://github.com/jneen/rouge#full-options
     css_class: highlight
     # default_lang: console
     span:
