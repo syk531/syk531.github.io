@@ -26,7 +26,7 @@ title: syk531                          # the main title
 tagline: notebook   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  �봽濡쒓렇�옒諛�, 肄붾뵫, �븣怨좊━利�, 諛깆� 臾몄젣 ���씠 �벑 �젙由� 媛쒖씤 釉붾줈洹� 
+  백준, 알고리즘, 프로그래밍, 웹개발
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://syk531.github.io'
@@ -87,20 +87,6 @@ avatar: '/assets/img/profile.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
-
-comments:
-  provider: giscus
-  active:   giscus      # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # The active options are as follows:
-  giscus:
-    repo:             "syk531/syk531.github.io"
-    repo_id:          "R_kgDOHtiXgA"
-    category:         "Announcements"
-    category_id:      "DIC_kwDOHtiXgM4CQxT7"
-    mapping:          "pathname"
-    reaction-enabled: "1"
-    theme:            "dark_dimmed"
-    crossorigin:      "anonymous"
 
 # Self-hosted static assets, optional 占쏙옙 https://github.com/cotes2020/chirpy-static-assets
 assets:

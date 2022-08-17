@@ -1,5 +1,8 @@
-<!--  The comments switcher -->
-{% if page.comments and site.comments.active %}
-  {% capture path %}comments/{{ site.comments.active }}.html{% endcapture %}
-  {% include {{ path }} %}
-{% endif %}
+<script src="https://utteranc.es/client.js"
+    repo="dev-yakuza/dev-yakuza.github.io"
+    issue-term="url"
+    label="comment"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
